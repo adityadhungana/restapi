@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/restapi/static/js/main.e45ec9f9.chunk.js",
+    "main.js.map": "/restapi/static/js/main.e45ec9f9.chunk.js.map",
+    "runtime-main.js": "/restapi/static/js/runtime-main.c2474b9c.js",
+    "runtime-main.js.map": "/restapi/static/js/runtime-main.c2474b9c.js.map",
+    "static/js/2.fc3864d1.chunk.js": "/restapi/static/js/2.fc3864d1.chunk.js",
+    "static/js/2.fc3864d1.chunk.js.map": "/restapi/static/js/2.fc3864d1.chunk.js.map",
+    "index.html": "/restapi/index.html",
+    "static/js/2.fc3864d1.chunk.js.LICENSE.txt": "/restapi/static/js/2.fc3864d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2474b9c.js",
+    "static/js/2.fc3864d1.chunk.js",
+    "static/js/main.e45ec9f9.chunk.js"
+  ]
+}
